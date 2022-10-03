@@ -2,21 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jduquesne.com/categories/article/</loc>
-    <lastmod>2022-09-29T10:52:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2022-09-29T10:52:00+08:00</lastmod>
+    <lastmod>2022-10-03T12:19:44+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
+    <lastmod>2022-10-03T12:19:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/esprit-fort/</loc>
+    <lastmod>2022-10-03T12:19:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/pantoun/</loc>
+    <lastmod>2022-10-03T12:19:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2022-10-03T12:19:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/article/</loc>
     <lastmod>2022-09-29T10:52:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/post/</loc>
-    <lastmod>2022-09-29T10:52:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/categories/singapour/</loc>
     <lastmod>2022-09-29T10:52:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -52,13 +66,6 @@
   
   <url>
     <loc>https://jduquesne.com/post/lilibet/</loc>
-    <lastmod>2022-09-22T10:30:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/pantoun/</loc>
     <lastmod>2022-09-22T10:30:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
