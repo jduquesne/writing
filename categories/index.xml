@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 15 Oct 2022 07:45:03 +0800</lastBuildDate><atom:link href="https://jduquesne.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 17:14:45 +0800</lastBuildDate><atom:link href="https://jduquesne.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantoun</title>
+      <link>https://jduquesne.com/categories/pantoun/</link>
+      <pubDate>Thu, 20 Oct 2022 17:14:45 +0800</pubDate>
+      
+      <guid>https://jduquesne.com/categories/pantoun/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Article</title>
       <link>https://jduquesne.com/categories/article/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sat, 15 Oct 2022 07:45:03 +0800</pubDate>
       
       <guid>https://jduquesne.com/categories/le-petit-journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapour</title>
-      <link>https://jduquesne.com/categories/singapour/</link>
-      <pubDate>Sat, 15 Oct 2022 07:45:03 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/categories/singapour/</guid>
       <description></description>
     </item>
     
