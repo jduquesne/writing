@@ -6,10 +6,116 @@
     <description>Recent content on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 20 Oct 2022 17:14:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2022 08:29:33 +0800</lastBuildDate>
     
         <atom:link href="https://jduquesne.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le COE, Kezako</title>
+      <link>https://jduquesne.com/post/coe-kezako/</link>
+      <pubDate>Wed, 09 Nov 2022 08:29:33 +0800</pubDate>
+      
+      <guid>https://jduquesne.com/post/coe-kezako/</guid>
+      
+        <description>&lt;p&gt;Singapour est souvent présenté comme un modèle en matière de gestion des véhicules.
+Ce modèle a un prix. Les voitures et motos qui sillonnent les routes dégagées de la cité-état sont les plus chères au monde. Et cela n’est pas seulement dû à la forte densité de Mercedes, Ferrari ou Ducati.&lt;/p&gt;
+&lt;p&gt;Principal responsable, le fameux COE, un certificat d’habilitation qui donne le droit d’acheter et de posséder un véhicule. Après avoir atteint un niveau record pour les voitures en Juillet 2022, c’était au tour des motos le mois dernier.&lt;/p&gt;
+&lt;p&gt;Pourquoi Singapour a-t-il créé un tel système? Comment est calculé le COE?  Est-il destiné à rester si cher?&lt;/p&gt;
+&lt;h2 id=&#34;doù-vient-le-coe-&#34;&gt;D’où vient le COE ?&lt;/h2&gt;
+&lt;p&gt;La croissance rapide de Singapour après l’indépendance a eu pour conséquence d’engorger ses routes. Dans les années 80, les capots à capots étaient devenus fréquents. Pour ne pas connaitre le futur de Jakarta ou Kuala Lumpur, le gouvernement fit ce qu’il aime le plus: créer une commission pour analyser et répondre au problème.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://jduquesne.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://jduquesne.com/images/2022-11-traffic-serangoon-1979.jpeg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://jduquesne.com/images/2022-11-traffic-serangoon-1979.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Serangoon Road en 1979 © National Archives of Singapore&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;La commissions a rendu son verdict début 1990. Singapour se donnera les moyens de créer un système de transports publics efficace, et désengorgera les routes en faisant de la voiture un luxe. Le certificat d&amp;rsquo;admissibilité (COE) fut introduit dans la foulée. Il permettra aux autorités de mieux contrôler le nombre de véhicules enregistrés dans la ville.&lt;/p&gt;
+&lt;h2 id=&#34;comment-fonctionne-le-coe&#34;&gt;Comment fonctionne le COE?&lt;/h2&gt;
+&lt;p&gt;Pour acheter et conduire un véhicule, il faut lui obtenir un COE. Il peut venir attaché à la voiture, ou être acheté séparément. Il est bon pour 10 ans, avec une option pour payer une prime de quota pour le renouveler pour 5 à 10 ans.&lt;/p&gt;
+&lt;p&gt;Le nombre de COE émis chaque année est réglementé par un système de quotas calculé par le gouvernement. Cette limite supérieur fait que les enchères bi-mensuelles par appel d’offre peuvent voir leurs prix s’envoler lorsque la demande est forte.&lt;/p&gt;
+&lt;p&gt;Il existe cinq catégories, chacune avec ses prix:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Catégorie&lt;/th&gt;
+&lt;th&gt;Prix COE Juillet&lt;/th&gt;
+&lt;th&gt;Prix COE Septembre&lt;/th&gt;
+&lt;th&gt;Différence&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A – jusqu’à 1600CC&lt;/td&gt;
+&lt;td&gt;$86,000&lt;/td&gt;
+&lt;td&gt;$84,000&lt;/td&gt;
+&lt;td&gt;-$2,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B – plus de 1600CC&lt;/td&gt;
+&lt;td&gt;$113,000&lt;/td&gt;
+&lt;td&gt;$108,051&lt;/td&gt;
+&lt;td&gt;-$4,949&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C – Vehicules utilitaires &amp;amp; autobus&lt;/td&gt;
+&lt;td&gt;$64,989&lt;/td&gt;
+&lt;td&gt;$67,001&lt;/td&gt;
+&lt;td&gt;$2,012&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D – Motos&lt;/td&gt;
+&lt;td&gt;$11,301&lt;/td&gt;
+&lt;td&gt;$11,589&lt;/td&gt;
+&lt;td&gt;$288&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E – “open” (sauf moto)&lt;/td&gt;
+&lt;td&gt;$113,299&lt;/td&gt;
+&lt;td&gt;$107,201&lt;/td&gt;
+&lt;td&gt;-$6,098&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Résultat, le prix moyen d’une Peugeot 3008 neuve est de S$ 180,000 (soit 128,000 €). Quel sacré numéro!&lt;/p&gt;
+&lt;h2 id=&#34;est-il-destiné-à-rester-si-cher&#34;&gt;Est-il destiné à rester si cher&lt;/h2&gt;
+&lt;p&gt;Après avoir fortement augmentés ces dernier mois, les prix ont atteint des niveaux historiques. Les spécialistes pensent que ces prix devraient rester élevés un moment. Ils identifient en effet de trois grandes tendances:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Une demande forte de flottes de co-voiturage et de coursiers tels que Grab, Go-Jek, ou FoodPanda.&lt;/li&gt;
+&lt;li&gt;Les arrivées de riches familles de Hong Kong et de Chine qui sont prêtes à dépenser pour gagner en mobilité;&lt;/li&gt;
+&lt;li&gt;Enfin, le nombre croissant de personnes qui font des offres en direct. En effet, Tesla laisse ses clients acheter leur propre COE, une première pour un grand concessionnaire à Singapour. Les acheteurs de Tesla ont donc tendance a faire des offres au plus fort pour être sur de pouvoir conduire leur nouveau Model 3.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://jduquesne.com/images/2022-11-road-singapore-pichler.jpeg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://jduquesne.com/images/2022-11-road-singapore-pichler.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Middle Road par Sebastian Pichler © Unsplash&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Au final, si les prix élevés du COE sont la principale raison du coût très élevés des voitures sur Singapour, il ont aussi pour effet de renouveler fréquemment son parc automobile (qui paierai S$100,000 pour une voiture vieille de 10 ans?), et offrir une qualité de circulation qui laisserai Bison Futé vert de plaisir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Liens interessants:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lepetitjournal.com/singapour/circuler-moto-temoignage-motarde-328945&#34;&gt;Circuler à moto à Singapour : Témoignage d’une motarde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lepetitjournal.com/singapour/modele-gestion-automobile-321334&#34;&gt;Singapour, un modèle en matière de gestion de l’automobile?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/certificate-of-entitlement--coe-.html&#34;&gt;Certificate of Entitlement (COE)&lt;/a&gt; du du Land Transport Authorities&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
     
     <item>
       <title>Retours Orientaux</title>
@@ -158,60 +264,6 @@ Le voyageur aime voir son village.&lt;/p&gt;
 &lt;li&gt;A Question of ‘Chineseness’: The Chinese Diaspora in Singapore 1819–1950s de Ling-yin&lt;/li&gt;
 &lt;li&gt;Chinese Migration to Singapore: Discourses and Discontents in a Globalizing Nation-State de Brenda S.A. Yeoh and Weiqiang Lind&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Endurcit</title>
-      <link>https://jduquesne.com/post/endurcit/</link>
-      <pubDate>Thu, 13 Oct 2022 17:08:55 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/post/endurcit/</guid>
-      
-        <description>&lt;p&gt;Je trouve les pantuns à deux strophes plus intéressants. Surtout quand ils sont en octosyllabes. Ils demandent plus d&amp;rsquo;efforts. Le plaisir de trouver la formule qui marche (pour ne pas dire la bonne) en est plus doux.&lt;/p&gt;
-&lt;h2 id=&#34;esprit-fort&#34;&gt;Esprit Fort&lt;/h2&gt;
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-  
-
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;p&gt;L&amp;rsquo;eau bouillante amollit les pommes&lt;br&gt;
-Nos œufs en sortent endurcis&lt;br&gt;
-La calamité mollit l&amp;rsquo;homme&lt;br&gt;
-Son esprit en sort raffermit&lt;/p&gt;
-&lt;p&gt;Nos œufs en sortent endurcis&lt;br&gt;
-L&amp;rsquo;épreuve est de les écaler&lt;br&gt;
-Son esprit en sort raffermit&lt;br&gt;
-Reste à ne pas le dévoyer&lt;/p&gt;
-&lt;/p&gt;
-  &lt;footer&gt;
-    &lt;strong&gt;Jacques Duquesne&lt;/strong&gt;
-    
-      
-        
-      
-    
-  &lt;/footer&gt;
-&lt;/blockquote&gt;</description>
       
     </item>
     

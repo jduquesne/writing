@@ -2,28 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jduquesne.com/categories/article/</loc>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2022-10-20T17:14:45+08:00</lastmod>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2022-10-20T17:14:45+08:00</lastmod>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jduquesne.com/categories/pantoun/</loc>
-    <lastmod>2022-10-20T17:14:45+08:00</lastmod>
+    <loc>https://jduquesne.com/post/coe-kezako/</loc>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/singapour/</loc>
+    <lastmod>2022-11-09T08:29:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/pantoun/</loc>
     <lastmod>2022-10-20T17:14:45+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -38,27 +66,6 @@
   
   <url>
     <loc>https://jduquesne.com/post/origines-chinois-singapour/</loc>
-    <lastmod>2022-10-15T07:45:03+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/article/</loc>
-    <lastmod>2022-10-15T07:45:03+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
-    <lastmod>2022-10-15T07:45:03+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/singapour/</loc>
     <lastmod>2022-10-15T07:45:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
