@@ -6,31 +6,31 @@
     <description>Recent content in Categories on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 30 Nov 2022 08:52:39 +0100</lastBuildDate><atom:link href="https://jduquesne.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 19:18:19 +0800</lastBuildDate><atom:link href="https://jduquesne.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>https://jduquesne.com/categories/article/</link>
-      <pubDate>Wed, 30 Nov 2022 08:52:39 +0100</pubDate>
+      <title>Pantoun</title>
+      <link>https://jduquesne.com/categories/pantoun/</link>
+      <pubDate>Thu, 29 Dec 2022 19:18:19 +0800</pubDate>
       
-      <guid>https://jduquesne.com/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Le Petit Journal</title>
-      <link>https://jduquesne.com/categories/le-petit-journal/</link>
-      <pubDate>Wed, 30 Nov 2022 08:52:39 +0100</pubDate>
-      
-      <guid>https://jduquesne.com/categories/le-petit-journal/</guid>
+      <guid>https://jduquesne.com/categories/pantoun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Singapour</title>
       <link>https://jduquesne.com/categories/singapour/</link>
-      <pubDate>Wed, 30 Nov 2022 08:52:39 +0100</pubDate>
+      <pubDate>Thu, 29 Dec 2022 19:18:19 +0800</pubDate>
       
       <guid>https://jduquesne.com/categories/singapour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://jduquesne.com/categories/article/</link>
+      <pubDate>Wed, 30 Nov 2022 08:52:39 +0100</pubDate>
+      
+      <guid>https://jduquesne.com/categories/article/</guid>
       <description></description>
     </item>
     
