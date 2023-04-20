@@ -2,21 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jduquesne.com/categories/article/</loc>
-    <lastmod>2023-04-13T15:46:59+08:00</lastmod>
+    <loc>https://jduquesne.com/post/2023-accidental-malay/</loc>
+    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2023-04-13T15:46:59+08:00</lastmod>
+    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
+    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/livre/</loc>
+    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/article/</loc>
     <lastmod>2023-04-13T15:46:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,13 +52,6 @@
   
   <url>
     <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
-    <lastmod>2023-04-13T15:46:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/</loc>
     <lastmod>2023-04-13T15:46:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -74,13 +88,6 @@
   <url>
     <loc>https://jduquesne.com/post/2023-peranakan-museum/</loc>
     <lastmod>2023-02-23T15:04:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/livre/</loc>
-    <lastmod>2023-02-19T15:06:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
