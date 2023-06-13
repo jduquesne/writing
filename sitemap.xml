@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jduquesne.com/post/2023-vagues-dansantes/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/pantoun/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/singapour/</loc>
+    <lastmod>2023-06-13T18:17:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jduquesne.com/post/2023-accidental-malay/</loc>
     <lastmod>2023-04-20T07:51:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9,28 +51,7 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/</loc>
-    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/categories/livre/</loc>
-    <lastmod>2023-04-20T07:51:39+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/</loc>
     <lastmod>2023-04-20T07:51:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -58,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/categories/singapour/</loc>
-    <lastmod>2023-04-13T15:46:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/post/2023-kebaya/</loc>
     <lastmod>2023-03-30T17:02:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,13 +87,6 @@
   
   <url>
     <loc>https://jduquesne.com/post/2023-thomas-velo/</loc>
-    <lastmod>2023-03-20T10:32:14+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/pantoun/</loc>
     <lastmod>2023-03-20T10:32:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
