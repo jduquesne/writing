@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 06 Sep 2023 17:55:06 +0800</lastBuildDate><atom:link href="https://jduquesne.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 15:25:48 +0800</lastBuildDate><atom:link href="https://jduquesne.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liens Interessants</title>
+      <link>https://jduquesne.com/post/2023-09-14-liens-interessants/</link>
+      <pubDate>Wed, 13 Sep 2023 15:25:48 +0800</pubDate>
+      
+      <guid>https://jduquesne.com/post/2023-09-14-liens-interessants/</guid>
+      <description>&lt;p&gt;Voici quelques lectures qui me sont restées en tête cette semaine. Au menu : article critique sur le modèle singapourien, AI et propriété intellectuelle, visualisation de Tenochtitlán et de la valeur d&amp;rsquo;un client Apple.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Circe</title>
       <link>https://jduquesne.com/post/2023-circe/</link>
@@ -23,16 +32,6 @@
       
       <guid>https://jduquesne.com/post/2023-09-01-liens-interessants/</guid>
       <description>&lt;p&gt;Twitter, Facebook et autres ont réseaux sociaux algorithmiques ont fini de détruire ce qui me rendait le web 1.0 magique : découvrir un sujet, une idée, un auteur après avoir suivi un lien recommandé sur un blog ou une page perso de confiance.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Les élections présidentielles de Singapour</title>
-      <link>https://jduquesne.com/post/2023-elections-presidentielles-sg/</link>
-      <pubDate>Tue, 29 Aug 2023 06:32:38 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/post/2023-elections-presidentielles-sg/</guid>
-      <description>&lt;p&gt;Les Singapouriens voteront ce 1er septembre pour élire leur prochain président. Ils choisiront entre Ng Kok Song, Tan Kin Lian et Tharman Shanmugaratnam.&lt;/p&gt;
-&lt;p&gt;Trente-deux ans après la création de la présidence élue, ce sera la troisième fois que les Singapouriens auront l&amp;rsquo;occasion de voter pour leur président.&lt;/p&gt;</description>
     </item>
     
   </channel>

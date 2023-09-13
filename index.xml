@@ -6,10 +6,31 @@
     <description>Recent content on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 06 Sep 2023 17:55:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 15:25:48 +0800</lastBuildDate>
     
         <atom:link href="https://jduquesne.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Liens Interessants</title>
+      <link>https://jduquesne.com/post/2023-09-14-liens-interessants/</link>
+      <pubDate>Wed, 13 Sep 2023 15:25:48 +0800</pubDate>
+      
+      <guid>https://jduquesne.com/post/2023-09-14-liens-interessants/</guid>
+      
+        <description>&lt;p&gt;Voici quelques lectures qui me sont restées en tête cette semaine. Au menu : article critique sur le modèle singapourien, AI et propriété intellectuelle, visualisation de Tenochtitlán et de la valeur d&amp;rsquo;un client Apple.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.monde-diplomatique.fr/2023/09/BULARD/66090&#34;&gt;Singapour, l’envers d’un décor futuriste&lt;/a&gt; par Martine Bulard - Le Monde diplomatique
+Article critique qui n&amp;rsquo;y va pas avec les pincettes. Des critiques justifiées, même si le passé de militante communiste de l&amp;rsquo;auteure se fait sentir dans certains choix de mots et d&amp;rsquo;intervenants.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property&#34;&gt;Generative AI and intellectual property&lt;/a&gt; by Benedict Evans
+Si vous mettez l&amp;rsquo;ensemble des connaissances du monde dans un modèle d&amp;rsquo;IA et que vous l&amp;rsquo;utilisez pour créer quelque chose de nouveau, qui en est propriétaire et qui est rémunéré ? Un débat vieux de 500 ans.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tenochtitlan.thomaskole.nl&#34;&gt;a portrait of Tenochtitlan&lt;/a&gt; by Thomas Kole
+Fascinante visualisation de la cité de Tenochtitlan (Mexico) avant l&amp;rsquo;arrivée des conquistadors.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asymco.com/2023/09/05/the-value-of-a-customer/&#34;&gt;The Value of a Customer&lt;/a&gt; by Horace Dediu
+Les utilisateurs d’iPhone rapportent 7 fois plus que ceux sur Android. Et non, on ne parle pas ici du prix des smartphones. J&amp;rsquo;aurais dû demander une commission de résultat à Tim Apple pour avoir réussi à faire passer toute ma famille sur iPhone&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
     
     <item>
       <title>Circe</title>
@@ -65,49 +86,6 @@ Succint et réaliste. &lt;em&gt;&amp;ldquo;Would I forbid the teaching (if that 
 &lt;li&gt;&lt;a href=&#34;https://www.lemonde.fr/pixels/article/2023/06/27/zelda-tears-of-the-kingdom-dans-les-pas-des-speedrunners-qui-le-finissent-en-moins-d-une-heure_6179356_4408996.html&#34;&gt;« Zelda : Tears of the Kingdom » : dans les pas des « speedrunners » qui le finissent en moins d’une heure&lt;/a&gt; par Pierre Trouvé- Le Monde&lt;br&gt;
 Mon ainé se découvre une fascination pour les sprinteurs du jeu vidéo. Quelle chance qu&amp;rsquo;il puisse lire ce bel article dans sa langue paternelle !&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Les élections présidentielles de Singapour</title>
-      <link>https://jduquesne.com/post/2023-elections-presidentielles-sg/</link>
-      <pubDate>Tue, 29 Aug 2023 06:32:38 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/post/2023-elections-presidentielles-sg/</guid>
-      
-        <description>&lt;p&gt;Les Singapouriens voteront ce 1er septembre pour élire leur prochain président. Ils choisiront entre Ng Kok Song, Tan Kin Lian et Tharman Shanmugaratnam.&lt;/p&gt;
-&lt;p&gt;Trente-deux ans après la création de la présidence élue, ce sera la troisième fois que les Singapouriens auront l&amp;rsquo;occasion de voter pour leur président.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Article publié dans le Petit Journal de Singapour: &lt;a href=&#34;https://lepetitjournal.com//singapour/elections-presidentielles-367348&#34;&gt;Les élections présidentielles de Singapour&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;les-origines--un-président-cérémoniel&#34;&gt;Les Origines : Un Président Cérémoniel&lt;/h2&gt;
-&lt;p&gt;Similaire aux systèmes parlementaires de pays tels que l&amp;rsquo;Allemagne, Israël ou l&amp;rsquo;Inde, le président Singapourien est le chef de l&amp;rsquo;État tandis que le Premier ministre est le chef du gouvernement.&lt;/p&gt;
-&lt;p&gt;Avant 1991, le Parlement nommait le président de Singapour, dont le rôle était surtout cérémoniel, un symbole de l&amp;rsquo;unité du pays. Yusof Ishak, le premier président (1965-1970), figure toujours sur les billets de la cité-état.&lt;/p&gt;
-&lt;p&gt;Mais quand le Parti des travailleurs a remporté une élection partielle et brisé le monopole du Parlement par le PAP en 1981, cela a effrayé Lee Kuan Yew, qui s&amp;rsquo;inquiétait qu&amp;rsquo;une &amp;ldquo;élection anormale&amp;rdquo; puisse amener au pouvoir des populistes qui se serviraient des réserves de la cité-état à des fins populistes.&lt;/p&gt;
-&lt;p&gt;Pour s’en protéger, il avance l&amp;rsquo;idée d&amp;rsquo;un président élu, capable de réfréner les velléités budgétaires d’un gouvernement rogue.&lt;/p&gt;
-&lt;h2 id=&#34;modification-constitutionnelle-de-1991&#34;&gt;Modification constitutionnelle de 1991&lt;/h2&gt;
-&lt;p&gt;Dix ans plus tard, une loi modifiant la Constitution de la République de Singapour est passée. Elle a pour but principal de faire du président le garant des réserves de Singapour grâce à des pouvoirs de véto budgétaire. Pour lui donner le mandat démocratique nécessaire, le président sera désormais élu.&lt;/p&gt;
-&lt;p&gt;Si le président obtient bien un pouvoir de veto, qui peut être utilisé après consultation d’un Conseil distinct de conseillers présidentiels, il doit toujours se conformer aux conseils du gouvernement en place pour la plupart des questions.&lt;/p&gt;
-&lt;p&gt;À ce jour, la présidence élue reste la plus grande modification constitutionnelle que la cité-état ai connu. La loi de 1991 a ajouté 30 % de contenu supplémentaire à la Constitution.&lt;/p&gt;
-&lt;h2 id=&#34;des-retouches-dans-le-temps&#34;&gt;Des retouches dans le temps&lt;/h2&gt;
-&lt;p&gt;Au fil des ans, d&amp;rsquo;autres ajustements ont été apportés pour affiner le rôle du président.&lt;/p&gt;
-&lt;p&gt;Le premier président élu, Ong Teng Cheong (1993-1999), a voulu connaître l&amp;rsquo;étendue des réserves qu&amp;rsquo;il était constitutionnellement tenu de protéger. Le Contrôleur général lui a dit qu&amp;rsquo;il faudrait 52 années-personnes pour compiler les chiffres. Suite à ces demandes, Ong a perdu les faveurs de ses anciens collègues du PAP.&lt;/p&gt;
-&lt;p&gt;Le deuxième président élu, SR Nathan (1999-2011), a de fait minimisé les pouvoirs discrétionnaires de la fonction en les considérant comme largement insignifiants, tant qu&amp;rsquo;un bon gouvernement était en place.&lt;/p&gt;
-&lt;p&gt;À la fin de son deuxième mandat en 2011, et dans un contexte de libéralisation politique plus large, le candidat PAP Tony Tan a gagné de justesse devant Tan Cheng Bock, ancien député du PAP et actuel président du Parti Progress Singapore.&lt;/p&gt;
-&lt;p&gt;Le gouvernement a par la suite resserré les critères d&amp;rsquo;éligibilité pour limiter les possibilités d’une telle surprise.&lt;/p&gt;
-&lt;h2 id=&#34;les-critères-déligibilité&#34;&gt;Les critères d&amp;rsquo;éligibilité&lt;/h2&gt;
-&lt;p&gt;Premièrement, pour compenser le fait qu’aucun des cinq premiers présidents n’ai été malais, seuls des membres de la communauté malaise sont autorisés à se présenter leur candidature en 2017.&lt;/p&gt;
-&lt;p&gt;Ensuite, les candidats sortant du service public doivent avoir occupé au moins trois ans un des postes de ministre, juge en chef, président du parlement, procureur général, président de la Commission de service public, auditeur général, comptable général ou secrétaire permanent.&lt;/p&gt;
-&lt;p&gt;De leur côté, les candidats du secteur privé doivent avoir été au moins trois ans directeur général d&amp;rsquo;une compagnie avec 500 millions USD de capitaux propres et profitable après impôts.&lt;/p&gt;
-&lt;p&gt;Résultat, en 2017, Halimah Yacob a été élue sans concurrence lors d&amp;rsquo;une élection réservée aux Malais.&lt;/p&gt;
-&lt;p&gt;Fait intéressant, bien que le gouvernement ait accepté les recommandations de la Commission constitutionnelle visant à resserrer les critères pour le secteur privé, il a rejeté ceux pour le secteur public (minimum six ans dans un poste éligible). Si cette recommandation avait été suivie, Halimah n&amp;rsquo;aurait pas été éligible, car elle n&amp;rsquo;avait été oratrice que pendant quatre ans.&lt;/p&gt;
-&lt;p&gt;Pour 2023, le Comité des élections présidentielles a validé les candidatures de Tharman Shanmugaratnam, Ng Kok Song et Tan Kin Lian. Les deux premiers en répondant aux critères du secteur public et le dernier à ceux du secteur privé.&lt;/p&gt;
-&lt;h2 id=&#34;les-candidats&#34;&gt;Les candidats&lt;/h2&gt;
-&lt;p&gt;Tharman, âgé de 66 ans, est le favori. Il a occupé plusieurs postes de haut rang au sein de gouvernements dirigé par le PAP, notamment en tant que ministre principal entre 2019 et 2023, vice-premier ministre de 2011 à 2019, et président de l&amp;rsquo;autorité monétaire de Singapour de 2011 à 2023.&lt;/p&gt;
-&lt;p&gt;Ng Kok Song, âgé de 75 ans, n&amp;rsquo;est guère un outsider. Il a fait carrière pendant plus de 30 ans au sein du fonds souverain GIC, avec pour plus haut poste un mandat de directeur des investissements (2007-2013). Il a déclaré que sa candidature à la présidence a été motivée par &amp;ldquo;les préoccupations récentes concernant l&amp;rsquo;intégrité de nos institutions nationales&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Tan Kin Lian, également âgé de 75 ans, se présente pour la deuxième fois, après une tentative infructueuse en 2011. Il cherche à se positionner en tant que candidat &amp;ldquo;indépendant&amp;rdquo; face à Tharman et Ng.&lt;/p&gt;
-&lt;h2 id=&#34;évolution-de-perception&#34;&gt;Évolution de perception&lt;/h2&gt;
-&lt;p&gt;Entre le parti au pouvoir et une partie des électeurs, les attentes concernant le rôle du président sont discordantes.&lt;/p&gt;
-&lt;p&gt;Si Lee Kuan Yew avait envisagé la présidence élue comme un possible contrepoids à un gouvernement non-PAP dépensier, de nombreux citoyens la voient désormais comme un possible frein à l&amp;rsquo;hégémonie du PAP.&lt;/p&gt;
-&lt;p&gt;Qui de Tharman, Ng ou Tan sera le troisième président élu directement par les électeurs Singapourien? Verdict ce vendredi 1er Septembre.&lt;/p&gt;</description>
       
     </item>
     

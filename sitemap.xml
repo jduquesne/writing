@@ -3,14 +3,49 @@
   
   <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2023-09-06T17:55:06+08:00</lastmod>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2023-09-06T17:55:06+08:00</lastmod>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/inspiration/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/liens/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/2023-09-14-liens-interessants/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/singapour/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -30,35 +65,7 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/post/</loc>
-    <lastmod>2023-09-06T17:55:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/inspiration/</loc>
-    <lastmod>2023-09-01T06:36:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/liens/</loc>
-    <lastmod>2023-09-01T06:36:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/post/2023-09-01-liens-interessants/</loc>
-    <lastmod>2023-09-01T06:36:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/singapour/</loc>
     <lastmod>2023-09-01T06:36:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
