@@ -5,6 +5,7 @@
     <link>https://jduquesne.com/tags/</link>
     <description>Recent content in Tags on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://jduquesne.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <atom:link href="https://jduquesne.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
