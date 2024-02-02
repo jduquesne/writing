@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Carnets de notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Jan 2024 09:42:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 15:19:31 +0800</lastBuildDate>
     <atom:link href="https://jduquesne.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liens Interessants</title>
+      <link>https://jduquesne.com/post/2024-01-liens-interessants/</link>
+      <pubDate>Fri, 26 Jan 2024 15:19:31 +0800</pubDate>
+      <guid>https://jduquesne.com/post/2024-01-liens-interessants/</guid>
+      <description>&lt;p&gt;Voici quelques lectures qui me sont restées en tête cette semaine. Les deux premiers sont un peu long, mais c&amp;rsquo;est aussi ce qui les rends si précieux.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vapotage à Singapour</title>
       <link>https://jduquesne.com/post/2024-01-vapotage-singapour/</link>
@@ -21,13 +28,6 @@
       <pubDate>Fri, 08 Dec 2023 17:14:59 +0100</pubDate>
       <guid>https://jduquesne.com/post/2023-12-bravo-serge/</guid>
       <description>&lt;p&gt;Fichtre ! Deux mois !!&#xA;Je me sens un peu coupable de ne pas avoir écrit ici depuis si longtemps.&lt;/p&gt;&#xA;&lt;p&gt;Je profite de la publication de « French Memories of Malaysia », le dernier livre de &lt;a href=&#34;http://www.akaroafrenchbooks.com/106_serge-jardin&#34;&gt;Serge Jardin&lt;/a&gt;, historien, géographe et ami pour reprendre mes bonnes intentions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Liens Interessants 3</title>
-      <link>https://jduquesne.com/post/2023-10-05-liens-interessants/</link>
-      <pubDate>Thu, 05 Oct 2023 07:36:52 +0800</pubDate>
-      <guid>https://jduquesne.com/post/2023-10-05-liens-interessants/</guid>
-      <description>&lt;p&gt;Voici quelques lectures qui me sont restées en tête cette semaine. Au menu : étude ethnographique sur la Malaisie des années 30, les origines du yoga moderne, et une vidéo très instructive sur les punaises de lit.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jduquesne.com/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/inspiration/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/liens/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/2024-01-liens-interessants/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/singapour/</loc>
+    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jduquesne.com/categories/article/</loc>
     <lastmod>2024-01-25T09:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9,35 +58,7 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/singapour/</loc>
     <lastmod>2024-01-25T09:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -60,20 +81,6 @@
   <url>
     <loc>https://jduquesne.com/categories/pantoun/</loc>
     <lastmod>2023-12-08T17:14:59+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/inspiration/</loc>
-    <lastmod>2023-10-05T07:36:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/liens/</loc>
-    <lastmod>2023-10-05T07:36:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
