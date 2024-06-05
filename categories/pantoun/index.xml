@@ -4,10 +4,17 @@
     <title>Pantoun on Carnets de notes</title>
     <link>https://jduquesne.com/categories/pantoun/</link>
     <description>Recent content in Pantoun on Carnets de notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 08 Dec 2023 17:14:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 09:42:47 +0800</lastBuildDate>
     <atom:link href="https://jduquesne.com/categories/pantoun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yoga Yan Kit</title>
+      <link>https://jduquesne.com/post/2024-06-yoga-yankit/</link>
+      <pubDate>Thu, 25 Jan 2024 09:42:47 +0800</pubDate>
+      <guid>https://jduquesne.com/post/2024-06-yoga-yankit/</guid>
+      <description>&lt;p&gt;Je suis officiellement prof de yoga depuis Mars.&#xA;Je donne classe tous les mardi matin au playfield de Yan Kit.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bravo Serge</title>
       <link>https://jduquesne.com/post/2023-12-bravo-serge/</link>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 13 Jun 2023 18:17:30 +0800</pubDate>
       <guid>https://jduquesne.com/post/2023-vagues-dansantes/</guid>
       <description>&lt;p&gt;Cela fait longtemps que je n&amp;rsquo;ai pas écrit de pantoun. Je suis bien rouillé ! Mais il faut bien remettre le pied à l&amp;rsquo;étrier. Hop. Mettons-le. Et fermons les yeux devant ce piètre premier jet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Le nouveau vélo</title>
-      <link>https://jduquesne.com/post/2023-thomas-velo/</link>
-      <pubDate>Mon, 20 Mar 2023 10:32:14 +0800</pubDate>
-      <guid>https://jduquesne.com/post/2023-thomas-velo/</guid>
-      <description>&lt;p&gt;Thomas voulait un vélo depuis longtemps.&lt;br&gt;&#xA;Nous avons trouvé la perle rare la semaine dernière.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

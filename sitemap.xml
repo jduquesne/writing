@@ -65,6 +65,13 @@
   </url>
   
   <url>
+    <loc>https://jduquesne.com/categories/pantoun/</loc>
+    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jduquesne.com/post/2024-01-vapotage-singapour/</loc>
     <lastmod>2024-01-25T09:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/post/2023-12-bravo-serge/</loc>
-    <lastmod>2023-12-08T17:14:59+01:00</lastmod>
+    <loc>https://jduquesne.com/post/2024-06-yoga-yankit/</loc>
+    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jduquesne.com/categories/pantoun/</loc>
+    <loc>https://jduquesne.com/post/2023-12-bravo-serge/</loc>
     <lastmod>2023-12-08T17:14:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -354,6 +361,13 @@
   <url>
     <loc>https://jduquesne.com/souscrire/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/reference/</loc>
+    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

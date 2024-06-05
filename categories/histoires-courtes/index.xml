@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Histoires courtes on Carnets de notes</title>
+    <title>Histoires Courtes on Carnets de notes</title>
     <link>https://jduquesne.com/categories/histoires-courtes/</link>
-    <description>Recent content in Histoires courtes on Carnets de notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Histoires Courtes on Carnets de notes</description>
+    <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 16 Sep 2022 07:00:06 +0800</lastBuildDate>
     <atom:link href="https://jduquesne.com/categories/histoires-courtes/index.xml" rel="self" type="application/rss+xml" />
