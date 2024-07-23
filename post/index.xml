@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Carnets de notes</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 17 Jul 2024 14:39:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:39:59 +0800</lastBuildDate>
     <atom:link href="https://jduquesne.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humus</title>
+      <link>https://jduquesne.com/post/livre-humus/</link>
+      <pubDate>Wed, 17 Jul 2024 14:39:59 +0800</pubDate>
+      <guid>https://jduquesne.com/post/livre-humus/</guid>
+      <description>&lt;p&gt;Ma critique du livre &lt;em&gt;Humus&lt;/em&gt; publiée sur &lt;a href=&#34;https://www.goodreads.com/review/show/&#34;&gt;GoodReads&lt;/a&gt; recemment. Je la republie ici pour catalogage et me faciliter la vie.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Babel</title>
       <link>https://jduquesne.com/post/livre-babel/</link>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 05 Jun 2024 09:42:47 +0800</pubDate>
       <guid>https://jduquesne.com/post/2024-06-yoga-yankit/</guid>
       <description>&lt;p&gt;Je suis officiellement prof de yoga depuis Mars.&#xA;Je donne classe tous les mardi matin au playfield de Yan Kit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Liens Interessants</title>
-      <link>https://jduquesne.com/post/2024-01-liens-interessants/</link>
-      <pubDate>Fri, 26 Jan 2024 15:19:31 +0800</pubDate>
-      <guid>https://jduquesne.com/post/2024-01-liens-interessants/</guid>
-      <description>&lt;p&gt;Voici quelques lectures qui me sont restées en tête cette semaine. Les deux premiers sont un peu long, mais c&amp;rsquo;est aussi ce qui les rends si précieux.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

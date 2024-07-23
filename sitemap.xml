@@ -3,34 +3,41 @@
   
   <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2024-07-17T14:39:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/</loc>
-    <lastmod>2024-07-17T14:39:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/livre-babel/</loc>
-    <lastmod>2024-07-17T14:39:46+08:00</lastmod>
+    <lastmod>2024-07-22T10:39:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2024-07-17T14:39:46+08:00</lastmod>
+    <lastmod>2024-07-22T10:39:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/livre-humus/</loc>
+    <lastmod>2024-07-22T10:39:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/livre/</loc>
+    <lastmod>2024-07-22T10:39:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2024-07-22T10:39:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/livre-babel/</loc>
     <lastmod>2024-07-17T14:39:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
