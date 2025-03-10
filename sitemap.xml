@@ -3,27 +3,41 @@
   
   <url>
     <loc>https://jduquesne.com/</loc>
-    <lastmod>2024-09-29T03:12:04+08:00</lastmod>
+    <lastmod>2025-03-10T06:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/categories/</loc>
-    <lastmod>2024-09-29T03:12:04+08:00</lastmod>
+    <lastmod>2025-03-10T06:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jduquesne.com/categories/livre/</loc>
-    <lastmod>2024-09-29T03:12:04+08:00</lastmod>
+    <loc>https://jduquesne.com/categories/liens/</loc>
+    <lastmod>2025-03-10T06:42:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jduquesne.com/post/</loc>
+    <lastmod>2025-03-10T06:42:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/post/2025-russie-ukraine-malhuret/</loc>
+    <lastmod>2025-03-10T06:42:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/livre/</loc>
     <lastmod>2024-09-29T03:12:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -58,69 +72,6 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/categories/pantoun/</loc>
-    <lastmod>2024-06-05T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/singapour/</loc>
-    <lastmod>2024-06-05T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/2024-06-yoga-yankit/</loc>
-    <lastmod>2024-06-05T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/inspiration/</loc>
-    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/liens/</loc>
-    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/2024-01-liens-interessants/</loc>
-    <lastmod>2024-01-26T15:19:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/article/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jduquesne.com/post/2024-01-vapotage-singapour/</loc>
-    <lastmod>2024-01-25T09:42:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/post/2023-12-bravo-serge/</loc>
     <lastmod>2023-12-08T17:14:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,8 +79,22 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/post/2023-10-05-liens-interessants/</loc>
-    <lastmod>2023-10-05T07:36:52+08:00</lastmod>
+    <loc>https://jduquesne.com/categories/pantoun/</loc>
+    <lastmod>2023-12-08T17:14:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/singapour/</loc>
+    <lastmod>2023-12-08T17:14:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/inspiration/</loc>
+    <lastmod>2023-09-13T15:25:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -151,6 +116,20 @@
   <url>
     <loc>https://jduquesne.com/post/2023-09-01-liens-interessants/</loc>
     <lastmod>2023-09-01T06:36:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/article/</loc>
+    <lastmod>2023-08-29T06:32:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jduquesne.com/categories/le-petit-journal/</loc>
+    <lastmod>2023-08-29T06:32:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -387,15 +366,8 @@
   </url>
   
   <url>
-    <loc>https://jduquesne.com/souscrire/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jduquesne.com/reference/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
